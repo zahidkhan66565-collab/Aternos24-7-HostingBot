@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "token_lord",
     "password": "thebotisnoob",
     "type": "offline"
   },
   "server": {
-    "ip": "skyforgesmp.aternos.me",
-    "port": 47419,
-    "version": "1.21.4"
+    "ip": "tokensmpsasti.aternos.me",
+    "port": 24910,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
