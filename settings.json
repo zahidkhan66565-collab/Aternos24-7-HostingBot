@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to jahidbahi!",
-        "I like to play Minecraft!"
+        "guys ye server bohot achha he",
+        "jahid accha owner he ",
+        "or bande lao server me maja ayga"
       ]
     },
     "chat-log": true,
@@ -86,6 +86,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
