@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "token_lord",
+    "username": "24by7bot_xd",
     "password": "thebotisnoob",
     "type": "offline"
   },
   "server": {
-    "ip": "tokensmpsasti.aternos.me",
+    "ip": "tokensmpremake2.aternos.me",
     "port": 24910,
     "version": "1.21.11"
   },
@@ -26,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
