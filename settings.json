@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tokensmpremake2.aternos.me",
-    "port": 24910,
+    "ip": "HEROBRINEEMC.aternos.me",
+    "port": 51280,
     "version": "1.21.11"
   },
   "position": {
